@@ -7,4 +7,4 @@ function Services() {
 }
 
 export default Services
-// now use of this component 
+// no use of this component !!
